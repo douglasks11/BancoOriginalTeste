@@ -1,7 +1,5 @@
 package br.com.douglas.testetecnico.dti;
 
-import javax.validation.constraints.NotBlank;
-
 import br.com.douglas.testetecnico.model.Cliente;
 
 public class ClienteDTO {
